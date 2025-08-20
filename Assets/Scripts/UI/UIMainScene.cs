@@ -31,7 +31,7 @@ public class UIMainScene : MonoBehaviour
 
     private void OnDestroy()
     {
-        Instance = null;
+        // Instance = null;
     }
 
     private void Update()
